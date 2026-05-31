@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../DevOpsLearn"
+		},
+		{
+			"name": "live-classes-ct-7",
+			"path": "../live-classes-ct-7"
+		},
+		{
+			"name": "training",
+			"path": "../training"
+		},
+		{
+			"name": "terraform-zero-to-hero",
+			"path": "../terraform-zero-to-hero"
+		}
+	],
+	"settings": {}
+}
